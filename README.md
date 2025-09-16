@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1039/gemini-image-generator)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1039/gemini-image-generator)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1039/gemini-image-generator)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1039/gemini-image-generator)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1039/gemini-image-generator)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1039/gemini-image-generator)
+
 # MCP Image Generator
 
 A powerful MCP (Model Context Protocol) server that enables AI assistants to generate and edit images using Google's Gemini 2.5 Flash Image API. Seamlessly integrate advanced image generation capabilities into Claude Code, Cursor, and other MCP-compatible AI tools.
